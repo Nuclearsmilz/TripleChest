@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "tripleccchest",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Triple Ccchest",
+  "description": "Just like a double chest (multiblock), but triple chest. :)",
   "authors": [
-    "Me!"
+    "TimeLord"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
