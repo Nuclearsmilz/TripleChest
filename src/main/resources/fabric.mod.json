@@ -9,8 +9,8 @@
     "TimeLord"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Nuclearsmilz/",
+    "sources": "https://github.com/Nuclearsmilz/TripleChest"
   },
 
   "license": "CC0-1.0",
@@ -19,11 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "timelord.triplechest.TripleChest",
     ]
-  },
   "mixins": [
-    "modid.mixins.json"
+    "triplechest.mixins.json"
   ],
 
   "depends": {
